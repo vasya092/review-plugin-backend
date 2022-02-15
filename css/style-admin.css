@@ -1,0 +1,9 @@
+.limit-fields{
+    display: inline-block; width: 100%; 
+}
+.limit-fields__item{
+    width: 33%; float: left;
+}
+.limit-fields input{
+    width: 75%;
+}   
